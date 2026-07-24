@@ -1,0 +1,9 @@
+{
+  "name": "dexin-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.11.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2"
+  }
+}

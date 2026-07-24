@@ -1,0 +1,14 @@
+{
+  "envId": "zcab-d2g3mo1qqaf40aab1",
+  "functionRoot": ".",
+  "functions": [
+    {
+      "name": "dexin-api",
+      "runtime": "Nodejs20.19",
+      "handler": "index.main",
+      "timeout": 60,
+      "envVariables": {},
+      "installDependency": true
+    }
+  ]
+}
